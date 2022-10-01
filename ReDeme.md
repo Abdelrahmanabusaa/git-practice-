@@ -2,10 +2,10 @@
 ## Why am here?
 
 am willing to enter the programmers world because the enginnering one failed me 
-> Green Arrow
+> Green Arrow <
 *** and here is a welcome code from me 😸: ***
 
-s`truct Welcome {
+`struct Welcome {
 
 var printWelcome: String {
 return "Welcome to GitHub"
